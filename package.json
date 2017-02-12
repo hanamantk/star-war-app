@@ -1,5 +1,5 @@
 {
-  "name": "flux-pricing",
+  "name": "react-flux",
   "version": "0.0.1",
   "description": "Pricing component with flux",
   "main": "js/app.js",
@@ -23,7 +23,7 @@
     "build": "browserify . | uglifyjs -cm > js/bundle.min.js",
     "test": "jest"
   },
-  "author": "Ken Wheeler",
+  "author": "hanamant k",
   "contributors": [
     "vichu1988"
   ],
